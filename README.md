@@ -29,6 +29,7 @@
 
 ## Pseudocode
 
+```python
  User is prompted to enter the name of the file
  The user is prompted for their choice (1-8)
  While the choice is not 8
@@ -53,3 +54,4 @@
            prompt for choice of sorting (price or duration)
            sort the flights based on choice
   Otherwise "Goodbye" is displayed
+```
