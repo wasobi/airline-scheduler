@@ -3,23 +3,6 @@
 ## Project Overview
 A mini-python program that shows flights from Providence to Orlando.
 
-## General Solution
-
- A function will read the data in from the file and store the
- information present in an empty list designated for that piece of
- data. The lists with the flight data will be returned an used later.
- Use loops to prompt the user for a choice until they choose
- to exit the program. Create a function that gets the choice from the user
- then execute the correct function to find the flight based on the
- specifications from the user. Based on the selection, the flights that
- match the search criteria will be returned to the user in an organized
- form (i.e. a table or a single print statement). The input will be matched
- to the items in one of the list and the index or indices that match
- that input will be saved. Using this index, complete flight information
- will be pulled from each of the other lists by matching the indices from
- the list we first used to search for the data to a corresponding list
- that contains another portion of the original flight data.
-
 ## Pseudocode
 
 ```python
