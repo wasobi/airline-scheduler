@@ -1,14 +1,7 @@
 # airline-scheduler
 
 ## Project Overview
- The main concept of this program is to manipulate the data
- from a file that describes flight times from Providence to
- Orlando. There will be a series of functions that will have specific
- responsibilities. This way the user will have the option of
- continuously choosing what they would like to do with the data.
- The program should ask for input from the user until they quit
- the program. If a wrong entry is entered the user should be prompted
- for another until a correct entry is entered.
+A mini-python program that shows flights from Providence to Orlando.
 
 ## General Solution
 
